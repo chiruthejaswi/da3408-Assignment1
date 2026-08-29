@@ -6,7 +6,7 @@
 
 ### Q1 — Technical Debt Diagnosis (10 marks)
 - Compact version: [`AIOps_Module1_Writeup.pdf`](./AIOps_Module1_Writeup.pdf) (Q1 section, page 1)
-- Detailed version: [`Q1_Detailed_Diagnosis.pdf`](./Q1_Detailed_Diagnosis.pdf) / [`Q1_Detailed_Diagnosis.tex`](./Q1_Detailed_Diagnosis.tex)
+- Detailed version: [`Q1_Detailed_Diagnosis.pdf`](./Q1_Detailed_Diagnosis.pdf) 
 
 ### Q2 — MLflow Experiment Comparison (15 marks)
 - Training script with MLflow logging: [`mlflow_train.py`](./mlflow_train.py)
