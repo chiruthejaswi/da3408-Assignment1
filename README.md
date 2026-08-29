@@ -1,4 +1,4 @@
-# AIOps Module 1 Assignment — Experiment Management & Reproducibility
+# AIOps Module 1 Assignment 
 
 **Author:** Chiruthejaswi Aramati
 
