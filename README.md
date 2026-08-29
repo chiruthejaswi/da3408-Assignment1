@@ -5,12 +5,12 @@
 ## Where to find each answer
 
 ### Q1 — Technical Debt Diagnosis (10 marks)
-- Compact version: [`AIOps_Module1_Writeup.pdf`](./AIOps_Module1_Writeup.pdf) (Q1 section, page 1)
+- Compact version: [`AIOps_Module1_Writeup.pdf`](./AIOps_Module1_Writeup.pdf) 
 - Detailed version: [`Q1_Detailed_Diagnosis.pdf`](./Q1_Detailed_Diagnosis.pdf) 
 
 ### Q2 — MLflow Experiment Comparison (15 marks)
 - Training script with MLflow logging: [`mlflow_train.py`](./mlflow_train.py)
-- Run-comparison screenshot, written analysis, and logging code excerpt: [`AIOps_Module1_Writeup.pdf`](./AIOps_Module1_Writeup.pdf) (Q2 section) or [`Q1.pdf`](./Q1.pdf) / [`Q1.tex`](./Q1.tex)
+- Run-comparison screenshot, written analysis, and logging code excerpt: [`AIOps_Module1_Writeup.pdf`](./AIOps_Module1_Writeup.pdf) (Q2 section)
 
 ### Q3 — DVC Data Versioning & Rollback (10 marks)
 - DVC-tracked files: [`data.dvc`](./data.dvc), [`file_list.csv.dvc`](./file_list.csv.dvc)
@@ -28,8 +28,7 @@
 .
 ├── README.md                        <- this file
 ├── AIOps_Module1_Writeup.pdf        <- Q1-Q4 combined 1-page write-up
-├── Q1_Detailed_Diagnosis.pdf/.tex   <- detailed Q1 answer
-├── Q1.pdf / Q1.tex                  <- LaTeX version of main write-up
+├── Q1_Detailed_Diagnosis.pdf/.      <- detailed Q1 answer
 ├── mlflow_train.py                  <- Q2 training script with MLflow logging
 ├── data/                            <- Q3 dataset (DVC-tracked, not in git directly)
 ├── data.dvc, file_list.csv.dvc      <- DVC pointer files
