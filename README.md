@@ -28,6 +28,7 @@
 .
 ├── README.md                        <- this file
 ├── AIOps_Module1_Writeup.pdf        <- Q1-Q4 combined 1-page write-up
+├── AI usage Disclosure            
 ├── Q1_Detailed_Diagnosis.pdf/.      <- detailed Q1 answer
 ├── mlflow_train.py                  <- Q2 training script with MLflow logging
 ├── data/                            <- Q3 dataset (DVC-tracked, not in git directly)
